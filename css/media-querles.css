@@ -1976,13 +1976,14 @@
     position: absolute;
     width: 44px;
     height: 70px;
-    top: 35px;
+    top: 29px;
     right: 13px;
     color: #7baf42;
   }
 
   .nav__list {
     display: flex;
+    width: 610px;
     margin-top: 0px;
     position: absolute;
     right: 67px;
@@ -2632,13 +2633,14 @@
     position: absolute;
     width: 44px;
     height: 70px;
-    top: 35px;
+    top: 29px;
     right: 68px;
     color: #7baf42;
   }
 
   .nav__list {
     display: flex;
+    width: 609px;
     margin-top: 0px;
     position: absolute;
     right: 126px;
