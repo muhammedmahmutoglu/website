@@ -224,7 +224,11 @@
   height: 20%;
 }
 
-/* products */
+/* products-control */
+
+.products-control{
+  display: flex;
+}
 
 .products {
   display: flex;
