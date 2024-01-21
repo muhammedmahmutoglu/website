@@ -1,5 +1,4 @@
 # website
-# website
 ## Proje kurulumu
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki kodları sırasıyla terminal aracılığıyla çalıştırın.
 
